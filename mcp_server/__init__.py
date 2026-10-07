@@ -1,1 +1,1 @@
-undefined
+"""MCP server package."""
